@@ -1,0 +1,19 @@
+{
+  "name": "host-my-stuff",
+  "version": "1.0.0",
+  "description": "host my stuff",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "libuk",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "yargs": "^15.1.0"
+  }
+}
