@@ -1,5 +1,11 @@
 # Upload to Dropbox
 
+Install dependencies:
+
+```
+yarn install
+```
+
 Usage:
 
 ```
